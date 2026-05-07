@@ -1,0 +1,66 @@
+[
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 18:02:28"
+    },
+    {
+        "query": "SELECT name as akshay FROM users;",
+        "time": "2026-05-06 17:59:42"
+    },
+    {
+        "query": "SELECT name as akshay FROM users;",
+        "time": "2026-05-06 17:58:49"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:57:45"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:57:33"
+    },
+    {
+        "query": "select distinct name from users",
+        "time": "2026-05-06 17:53:49"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:53:38"
+    },
+    {
+        "query": "select distinct name from users",
+        "time": "2026-05-06 17:53:01"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:52:53"
+    },
+    {
+        "query": "select distinct name from users",
+        "time": "2026-05-06 17:49:29"
+    },
+    {
+        "query": "select distinct name from users",
+        "time": "2026-05-06 17:49:25"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:46:08"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:46:05"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:45:58"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:45:54"
+    },
+    {
+        "query": "SELECT * FROM users;",
+        "time": "2026-05-06 17:45:21"
+    }
+]

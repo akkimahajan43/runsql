@@ -1,0 +1,18 @@
+timestamp,date,time,session_id,request_id,user_input,assistant_response,prompt_tokens,completion_tokens,total_tokens,estimated_cost_usd,response_time_sec,model_name,status,error_message
+2026-04-28 15:39:32.097313,2026-04-28,15:39:32,b4fbf475-0f42-43e1-982e-adae6274477b,c43d5e41-b191-4e3d-bbb3-644dce51cc37,Hello,Hello. It's nice to meet you. Is there something I can help you with or would you like to chat?,41,25,66,3.894e-05,1.34,llama-3.3-70b-versatile,Success,
+2026-04-28 15:40:08.519781,2026-04-28,15:40:08,b4fbf475-0f42-43e1-982e-adae6274477b,923763d8-d6e0-42cf-88e6-e1dc1b8ab8fb,Can you help to learn Power BI,"Power BI is a powerful business analytics service by Microsoft that allows you to connect to various data sources, create interactive dashboards, and visualize your data.
+
+Here's a general outline of what we can cover:
+
+1. **Getting started**: Introduction to Power BI, its components, and versions (Desktop, Service, and Mobile).
+2. **Data preparation**: Connecting to data sources, importing data, and preparing it for analysis.
+3. **Data modeling**: Creating data models, using DAX (Data Analysis Expressions) formulas, and optimizing data models.
+4. **Visualization**: Creating visualizations, such as tables, charts, maps, and more.
+5. **Reports and dashboards**: Building reports and dashboards, using layout and formatting options.
+6. **Advanced topics**: Using Power Query, Power Pivot, and other advanced features.
+
+What specific areas of Power BI would you like to learn about? Are you a beginner or do you have some experience with Power BI already?
+
+We can break down the learning process into smaller chunks, and I'll be happy to guide you through it. Let me know how I can assist you.",82,229,311,0.00018349,1.02,llama-3.3-70b-versatile,Success,
+2026-04-28 15:42:45.899494,2026-04-28,15:42:45,2b5e10dc-30d9-493d-9c16-80badf1e0f95,8e988958-1684-4bc6-b6a6-41945bca9889,Hi,Error while generating response.,0,0,0,0,0.83,llama-3.3-70b-versatile,Failed,"Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+2026-04-28 15:42:49.808350,2026-04-28,15:42:49,2b5e10dc-30d9-493d-9c16-80badf1e0f95,ac47c873-9a07-4b9c-9f61-6aae97fbe8c7,Hello,Error while generating response.,0,0,0,0,0.07,llama-3.3-70b-versatile,Failed,"Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"

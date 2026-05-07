@@ -1,0 +1,5 @@
+timestamp,date,time,session_id,user_input,assistant_response,response_word_count,response_sentence_count,prompt_tokens,completion_tokens,total_tokens,prompt_cost_usd,completion_cost_usd,total_cost_usd,response_time_sec
+2026-04-29 16:15:12.208380,2026-04-29,16:15:12,6989bc55-0f40-4207-a28a-9693a2566919,Hi,It's nice to meet you. Is there something I can help you with or would you like to chat? I'm here to assist you with any questions or topics you'd like to discuss.,33,3,41,40,81,1.107e-05,2.36e-05,3.467e-05,0.92
+2026-04-29 16:15:20.813995,2026-04-29,16:15:20,6989bc55-0f40-4207-a28a-9693a2566919,I want to go to Bangkok!,"Bangkok is an amazing city. The culture, food, and nightlife are all so vibrant and exciting. What are you most looking forward to experiencing in Bangkok? Are you interested in visiting the Grand Palace, trying all the delicious street food, or exploring the night markets?
+
+Also, have you already booked your trip or are you still in the planning stages? I'd be happy to help with any questions or recommendations you might have.",73,6,97,87,184,2.619e-05,5.133e-05,7.752e-05,0.63

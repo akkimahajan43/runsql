@@ -1,0 +1,23 @@
+patientId,CaseId,name,timestamp,Comments
+p1,1,DOB_Verification_Presented,01-01-2026,Same patient different case
+p1,1,DOB_Verification_Successful,01-01-2026,Same patient different case
+p1,1,PatientPortal_Login_Success,01-01-2026,Same patient different case
+p1,1,PatientPortal_Loaded,01-01-2026,Same patient different case
+p4,3,DOB_Verification_Presented,01-01-2026,Only first 2 events
+p4,3,DOB_Verification_Successful,01-01-2026,Only first 2 events
+p6,7,DOB_Verification_Presented,01-01-2026,Events on same dates
+p6,7,DOB_Verification_Successful,01-01-2026,Events on same dates
+p6,7,PatientPortal_Login_Success,01-01-2026,Events on same dates
+p6,7,PatientPortal_Loaded,01-01-2026,Events on same dates
+p2,4,DOB_Verification_Presented,01-02-2026,Date range
+p2,4,DOB_Verification_Successful,01-02-2026,Date range
+p3,5,DOB_Verification_Presented,01-09-2026,Events on different dates
+p3,5,DOB_Verification_Successful,01-10-2026,Events on different dates
+p3,5,PatientPortal_Login_Success,01-11-2026,Events on different dates
+p3,5,PatientPortal_Loaded,01-12-2026,Events on different dates
+p5,6,PatientPortal_Login_Success,01-12-2026,Flag Off event
+p5,6,PatientPortal_Loaded,01-12-2026,Flag Off event
+p1,2,PatientPortal_Login_Success,01-12-2026,Same patient different case
+p1,2,PatientPortal_Loaded,01-12-2026,Same patient different case
+p2,4,PatientPortal_Login_Success,01-15-2026,Date range
+p2,4,PatientPortal_Loaded,01-15-2026,Date range
